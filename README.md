@@ -1,2 +1,2 @@
-# Sudoku_Solver
+# sudoku_solver
 python Sudoku solver
